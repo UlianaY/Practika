@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\практика\Practika\n2\bin\Debug\n2.exe.config
+C:\Users\Admin\Desktop\практика\Practika\n2\bin\Debug\n2.exe
+C:\Users\Admin\Desktop\практика\Practika\n2\bin\Debug\n2.pdb
+C:\Users\Admin\Desktop\практика\Practika\n2\obj\Debug\n2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\практика\Practika\n2\obj\Debug\n2.exe
+C:\Users\Admin\Desktop\практика\Practika\n2\obj\Debug\n2.pdb

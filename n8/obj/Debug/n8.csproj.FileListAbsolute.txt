@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\практика\Practika\n8\obj\Debug\n8.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\практика\Practika\n8\obj\Debug\n8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\практика\Practika\n8\bin\Debug\n8.exe.config
+C:\Users\Admin\Desktop\практика\Practika\n8\bin\Debug\n8.exe
+C:\Users\Admin\Desktop\практика\Practika\n8\bin\Debug\n8.pdb
+C:\Users\Admin\Desktop\практика\Practika\n8\obj\Debug\n8.exe
+C:\Users\Admin\Desktop\практика\Practika\n8\obj\Debug\n8.pdb
