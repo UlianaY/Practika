@@ -11,7 +11,7 @@ namespace n11
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("")
+            Console.WriteLine("");
             Console.WriteLine("Введите зашифрованный код:");
             string InputSt = TakeString();
             string OutputSt = "";

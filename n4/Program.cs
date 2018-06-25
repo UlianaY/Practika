@@ -21,8 +21,7 @@ namespace n4
             {
                 Number[i] = Convert.ToInt32(Char.GetNumericValue(Not3[i]));
             }
-
-            Array.Reverse(Number);
+            
             for (int i = 0; i< Number.Length; i++)
             {
                 int tek = Number[i];
@@ -105,7 +104,7 @@ namespace n4
             do
             {
                 ok = int.TryParse(Console.ReadLine(), out n);
-                if (!ok) Console.WriteLine("Не вверный ввод данных. Введите еще раз: ");
+                if (!ok && n <= 0) Console.WriteLine("Не вверный ввод данных. Введите еще раз: ");
             } while (!ok);
             return n;
         }

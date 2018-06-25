@@ -166,8 +166,6 @@ namespace n10
             {
                 return tail;
             }
-
         }
-
     }
 }
